@@ -1,6 +1,4 @@
-/**
- * @author Donald Green <donald.green@medlmobile.com>
- */
+
 import { CALL_API, Schemas } from '../middleware/api';
 
 export const SIGN_UP_REQUEST = 'SIGN_UP_REQUEST';

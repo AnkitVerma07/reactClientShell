@@ -1,6 +1,4 @@
-/**
- * @author Donald Green <donald.green@medlmobile.com>
- */
+
 const ENV = {
   develop:{
     baseURL: '',

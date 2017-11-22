@@ -1,6 +1,4 @@
-/**
- * @author Donald Green <donald.green@medlmobile.com>
- */
+
 import React, {Component} from "react";
 import { connect } from 'react-redux';
 import {Row, Col, Button, Modal, ModalHeader, ModalBody, ModalFooter, Card, CardHeader, CardBlock} from "reactstrap";

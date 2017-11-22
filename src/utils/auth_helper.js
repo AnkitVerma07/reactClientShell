@@ -1,6 +1,4 @@
-/**
- * @author Donald Green <donald.green@medlmobile.com>
- */
+
 import { host, client } from '../config/api_config';
 // TODO: this module should export a react component to avoid importing the store as a singleton
 // all login/logout actions should go through redux

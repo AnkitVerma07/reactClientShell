@@ -1,6 +1,4 @@
-/**
- * @author Donald Green <donald.green@medlmobile.com>
- */
+
 import user from './user_reducer';
 import error from './login_page_reducer';
 import { entities, errorMessage, pagination } from './api_reducer';

@@ -1,6 +1,4 @@
-/**
- * @author Donald Green <donald.green@medlmobile.com>
- */
+
 
 export const SHOW_MESSAGE = 'SHOW_MESSAGE';
 export function showMessage(title, message) {

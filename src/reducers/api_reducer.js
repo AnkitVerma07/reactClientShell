@@ -1,6 +1,4 @@
-/**
- * @author Donald Green <donald.green@medlmobile.com>
- */
+
 import * as ActionTypes from '../actions';
 import merge from 'lodash/merge';
 import paginate from './paginate';

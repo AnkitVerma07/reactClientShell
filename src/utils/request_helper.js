@@ -1,6 +1,4 @@
-/**
- * @author Donald Green <donald.green@medlmobile.com>
- */
+
 import { host } from '../config/api_config';
 import * as auth from './auth_helper';
 

@@ -1,9 +1,9 @@
 {
-  "name": "cfz-admin",
+  "name": "reactClientShell",
   "version": "0.0.1",
-  "description": "AYG Admin Project",
-  "author": "Donald Green <donald.green@medlmobile.com>",
-  "url": "https://atyourgate.com",
+  "description": "react client shell",
+  "author": "Ankit Verma",
+  "url": "",
   "license": "MIT",
   "private": true,
   "homepage": ".",

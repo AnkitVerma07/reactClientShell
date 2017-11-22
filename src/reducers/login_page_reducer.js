@@ -1,6 +1,4 @@
-/**
- * @author Donald Green <donald.green@medlmobile.com>
- */
+
 import { SHOW_MESSAGE, HIDE_MESSAGE } from '../actions/login_page_actions';
 
 const initialState = {

@@ -1,6 +1,4 @@
-/**
- * @author Donald Green <donald.green@medlmobile.com>
- */
+
 import * as api from '../utils/api_helper';
 import * as auth from '../utils/auth_helper';
 import { showMessage, hideMessage } from './login_page_actions';

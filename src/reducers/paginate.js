@@ -1,6 +1,4 @@
-/**
- * @author Donald Green <donald.green@medlmobile.com>
- */
+
 import union from 'lodash/union';
 
 // Creates a reducer managing pagination, given the action types to handle,

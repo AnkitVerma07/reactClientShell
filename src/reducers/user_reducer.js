@@ -1,6 +1,4 @@
-/**
- * @author Donald Green <donald.green@medlmobile.com>
- */
+
 import { LOGIN, LOGOUT, GET_USER_PROFILE, IS_LOGGED_IN, IS_LOGGING_IN } from '../actions/user_actions';
 
 const initialState = {

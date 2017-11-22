@@ -1,6 +1,4 @@
-/**
- * @author Donald Green <donald.green@medlmobile.com>
- */
+
 import request from './request_helper';
 import * as auth from './auth_helper';
 

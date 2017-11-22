@@ -1,6 +1,4 @@
-/**
- * @author Donald Green <donald.green@medlmobile.com>
- */
+
 import { normalize, schema } from 'normalizr'
 import { host } from '../config/api_config';
 import request from '../utils/request_helper';
